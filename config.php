@@ -10,7 +10,7 @@ $google_analysis='';
 
 $fbid='100004943416284'; // Facebook ID
 
-$email='paharisanjiv123@gmail.com';
+$email='@gmail.com';
 
 $message='Hey! Check out my new site :)'; // Alert Message - Can be left empty also
 
