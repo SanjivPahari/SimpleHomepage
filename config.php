@@ -22,7 +22,6 @@ $youtubeid='UCHB88lcRHefnnM8kOxU_oCg';
 $myskills = array(
 'Lazy'=>'100',
 'Basic Web Developemt'=>'70',
-'Reading, Writing...'=>'50',
 'Films, Vlog...'=>'30',
 'Handwriting'=>'20'
         );
